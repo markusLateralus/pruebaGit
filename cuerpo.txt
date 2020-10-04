@@ -1,4 +1,5 @@
 cuerpo
-despues del conflicto
+
+despues del conflicto solucionado
 y ahora quiero poner más cosas
 añado a la cuarta rama 

@@ -1,3 +1,4 @@
 cabecera
 
-escribir tercera rama 
+arreglando el conflicto
+segunda
