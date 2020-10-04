@@ -1,3 +1,5 @@
 cabecera
 
 vamos a escribir algo
+
+resolviendo conflicto
